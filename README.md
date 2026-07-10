@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student at **KIET Deemed to be University** (2024 – Present)
+- 🎓 B.Tech Computer Science Student at **KIET Group of Institutions** (2024 – Present)
 - 💻 Full-Stack Developer — **React.js**, **Flutter**, **Flask**
 - 🤖 Exploring **Machine Learning** & **Data Analytics**
 - 📜 AWS Certified Cloud Practitioner | Cisco-certified in Networking & Cybersecurity
